@@ -76,24 +76,6 @@
     "difficulty": "easy"
   },
   {
-    "_id": "5bf6cbef6ac34b001baef488",
-    "title": "Pancakes",
-    "preparationTime": 20,
-    "slug": "pancakes",
-    "lastModifiedDate": "2023-06-19T08:00:13.403Z",
-    "ingredients": [
-      {"name": "flour", "amount": 200, "unit": "g"},
-      {"name": "milk", "amount": 300, "unit": "ml"},
-      {"name": "egg", "amount": 1, "unit": "pcs"},
-      {"name": "sugar", "amount": 2, "unit": "tbsp"},
-      {"name": "baking powder", "amount": 1, "unit": "tsp"},
-      {"name": "salt", "amount": 0.5, "unit": "tsp"},
-      {"name": "butter", "amount": 50, "unit": "g"}
-    ],
-    "directions": "Mix dry ingredients, add milk and egg. Stir until smooth. Cook on a griddle until golden brown.",
-    "difficulty": "easy"
-  },
-  {
     "_id": "5bf6cbef6ac34b001baef489",
     "title": "Tomato Soup",
     "preparationTime": 40,
