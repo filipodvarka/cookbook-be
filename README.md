@@ -14,6 +14,17 @@ Returns a list of recipes.
 
 Returns a single recipe by slug. Includes few more fields.
 
+### POST /recipes
+
+Create a new recipe.
+
+### POST /recipes/:slug
+
+Update a recipe by slug.
+
+### DELETE /recipes/:slug
+
+Delete a recipe by slug.
 
 ## How to run
 
