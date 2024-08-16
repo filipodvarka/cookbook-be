@@ -6,14 +6,14 @@
     "slug": "spaghetti-carbonara",
     "lastModifiedDate": "2023-06-15T10:20:13.403Z",
     "ingredients": [
-      {"name": "spaghetti", "amount": 400, "unit": "g"},
-      {"name": "pancetta", "amount": 200, "unit": "g"},
-      {"name": "egg", "amount": 4, "unit": "pcs"},
-      {"name": "parmesan", "amount": 100, "unit": "g"},
-      {"name": "black pepper", "amount": 1, "unit": "tsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"}
+      {"name": "spaghetti", "amount": 400, "amountUnit": "g"},
+      {"name": "pancetta", "amount": 200, "amountUnit": "g"},
+      {"name": "egg", "amount": 4, "amountUnit": "pcs"},
+      {"name": "parmesan", "amount": 100, "amountUnit": "g"},
+      {"name": "black pepper", "amount": 1, "amountUnit": "tsp"},
+      {"name": "salt", "amount": 1, "amountUnit": "tsp"}
     ],
-    "directions": "Cook the spaghetti. In a pan, cook the pancetta. Beat the eggs and mix with grated parmesan. Combine all and season with pepper and salt.",
+    "directions": "1. Cook the spaghetti. 2. In a pan, cook the pancetta. 3. Beat the eggs and mix with grated parmesan. 4. Combine all and season with pepper and salt.",
     "difficulty": "easy"
   },
   {
@@ -23,16 +23,16 @@
     "slug": "chicken-curry",
     "lastModifiedDate": "2023-06-16T12:30:13.403Z",
     "ingredients": [
-      {"name": "chicken breast", "amount": 500, "unit": "g"},
-      {"name": "onion", "amount": 1, "unit": "pcs"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "ginger", "amount": 1, "unit": "tsp"},
-      {"name": "curry powder", "amount": 2, "unit": "tbsp"},
-      {"name": "coconut milk", "amount": 400, "unit": "ml"},
-      {"name": "tomato paste", "amount": 2, "unit": "tbsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"}
+      {"name": "chicken breast", "amount": 500, "amountUnit": "g"},
+      {"name": "onion", "amount": 1, "amountUnit": "pcs"},
+      {"name": "garlic", "amount": 2, "amountUnit": "cloves"},
+      {"name": "ginger", "amount": 1, "amountUnit": "tsp"},
+      {"name": "curry powder", "amount": 2, "amountUnit": "tbsp"},
+      {"name": "coconut milk", "amount": 400, "amountUnit": "ml"},
+      {"name": "tomato paste", "amount": 2, "amountUnit": "tbsp"},
+      {"name": "salt", "amount": 1, "amountUnit": "tsp"}
     ],
-    "directions": "Sauté onion, garlic, and ginger. Add chicken and curry powder, cook until browned. Stir in coconut milk and tomato paste, simmer for 20 minutes. Season with salt.",
+    "directions": "1. Sauté onion, garlic, and ginger. 2. Add chicken and curry powder, cook until browned. 3. Stir in coconut milk and tomato paste, simmer for 20 minutes. 4. Season with salt.",
     "difficulty": "medium"
   },
   {
@@ -42,18 +42,18 @@
     "slug": "beef-stew",
     "lastModifiedDate": "2023-06-17T14:40:13.403Z",
     "ingredients": [
-      {"name": "beef chuck", "amount": 1, "unit": "kg"},
-      {"name": "potatoes", "amount": 500, "unit": "g"},
-      {"name": "carrots", "amount": 3, "unit": "pcs"},
-      {"name": "celery", "amount": 2, "unit": "stalks"},
-      {"name": "onion", "amount": 1, "unit": "pcs"},
-      {"name": "beef broth", "amount": 1, "unit": "l"},
-      {"name": "tomato paste", "amount": 2, "unit": "tbsp"},
-      {"name": "bay leaves", "amount": 2, "unit": "pcs"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
+      {"name": "beef chuck", "amount": 1, "amountUnit": "kg"},
+      {"name": "potatoes", "amount": 500, "amountUnit": "g"},
+      {"name": "carrots", "amount": 3, "amountUnit": "pcs"},
+      {"name": "celery", "amount": 2, "amountUnit": "stalks"},
+      {"name": "onion", "amount": 1, "amountUnit": "pcs"},
+      {"name": "beef broth", "amount": 1, "amountUnit": "l"},
+      {"name": "tomato paste", "amount": 2, "amountUnit": "tbsp"},
+      {"name": "bay leaves", "amount": 2, "amountUnit": "pcs"},
+      {"name": "salt", "amount": 1, "amountUnit": "tsp"},
+      {"name": "pepper", "amount": 1, "amountUnit": "tsp"}
     ],
-    "directions": "Brown beef, add vegetables and sauté. Add broth, tomato paste, bay leaves, salt, and pepper. Simmer for 2 hours.",
+    "directions": "1. Brown beef. 2. Add vegetables and sauté. 3. Add broth, tomato paste, bay leaves, salt, and pepper. 4. Simmer for 2 hours.",
     "difficulty": "hard"
   },
   {
@@ -63,16 +63,16 @@
     "slug": "vegetable-stir-fry",
     "lastModifiedDate": "2023-06-18T16:50:13.403Z",
     "ingredients": [
-      {"name": "bell pepper", "amount": 1, "unit": "pcs"},
-      {"name": "broccoli", "amount": 1, "unit": "head"},
-      {"name": "carrots", "amount": 2, "unit": "pcs"},
-      {"name": "snow peas", "amount": 100, "unit": "g"},
-      {"name": "soy sauce", "amount": 3, "unit": "tbsp"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "ginger", "amount": 1, "unit": "tsp"},
-      {"name": "vegetable oil", "amount": 2, "unit": "tbsp"}
+      {"name": "bell pepper", "amount": 1, "amountUnit": "pcs"},
+      {"name": "broccoli", "amount": 1, "amountUnit": "head"},
+      {"name": "carrots", "amount": 2, "amountUnit": "pcs"},
+      {"name": "snow peas", "amount": 100, "amountUnit": "g"},
+      {"name": "soy sauce", "amount": 3, "amountUnit": "tbsp"},
+      {"name": "garlic", "amount": 2, "amountUnit": "cloves"},
+      {"name": "ginger", "amount": 1, "amountUnit": "tsp"},
+      {"name": "vegetable oil", "amount": 2, "amountUnit": "tbsp"}
     ],
-    "directions": "Heat oil, sauté garlic and ginger. Add vegetables, stir-fry for 5-7 minutes. Add soy sauce and stir to combine.",
+    "directions": "1. Heat oil. 2. Sauté garlic and ginger. 3. Add vegetables, stir-fry for 5-7 minutes. 4. Add soy sauce and stir to combine.",
     "difficulty": "easy"
   },
   {
@@ -82,16 +82,16 @@
     "slug": "tomato-soup",
     "lastModifiedDate": "2023-06-20T09:10:13.403Z",
     "ingredients": [
-      {"name": "tomatoes", "amount": 800, "unit": "g"},
-      {"name": "onion", "amount": 1, "unit": "pcs"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "olive oil", "amount": 2, "unit": "tbsp"},
-      {"name": "vegetable broth", "amount": 1, "unit": "l"},
-      {"name": "basil", "amount": 1, "unit": "bunch"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
+      {"name": "tomatoes", "amount": 800, "amountUnit": "g"},
+      {"name": "onion", "amount": 1, "amountUnit": "pcs"},
+      {"name": "garlic", "amount": 2, "amountUnit": "cloves"},
+      {"name": "olive oil", "amount": 2, "amountUnit": "tbsp"},
+      {"name": "vegetable broth", "amount": 1, "amountUnit": "l"},
+      {"name": "basil", "amount": 1, "amountUnit": "bunch"},
+      {"name": "salt", "amount": 1, "amountUnit": "tsp"},
+      {"name": "pepper", "amount": 1, "amountUnit": "tsp"}
     ],
-    "directions": "Sauté onion and garlic in olive oil. Add tomatoes and broth, simmer for 20 minutes. Blend until smooth, add basil, salt, and pepper.",
+    "directions": "1. Sauté onion and garlic in olive oil. 2. Add tomatoes and broth, simmer for 20 minutes. 3. Blend until smooth. 4. Add basil, salt, and pepper.",
     "difficulty": "easy"
   },
   {
@@ -101,19 +101,19 @@
     "slug": "lasagna",
     "lastModifiedDate": "2023-06-21T10:20:13.403Z",
     "ingredients": [
-      {"name": "lasagna noodles", "amount": 250, "unit": "g"},
-      {"name": "ground beef", "amount": 500, "unit": "g"},
-      {"name": "onion", "amount": 1, "unit": "pcs"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "tomato sauce", "amount": 800, "unit": "g"},
-      {"name": "ricotta cheese", "amount": 250, "unit": "g"},
-      {"name": "mozzarella cheese", "amount": 200, "unit": "g"},
-      {"name": "parmesan cheese", "amount": 100, "unit": "g"},
-      {"name": "olive oil", "amount": 2, "unit": "tbsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
+      {"name": "lasagna noodles", "amount": 250, "amountUnit": "g"},
+      {"name": "ground beef", "amount": 500, "amountUnit": "g"},
+      {"name": "onion", "amount": 1, "amountUnit": "pcs"},
+      {"name": "garlic", "amount": 2, "amountUnit": "cloves"},
+      {"name": "tomato sauce", "amount": 800, "amountUnit": "g"},
+      {"name": "ricotta cheese", "amount": 250, "amountUnit": "g"},
+      {"name": "mozzarella cheese", "amount": 200, "amountUnit": "g"},
+      {"name": "parmesan cheese", "amount": 100, "amountUnit": "g"},
+      {"name": "olive oil", "amount": 2, "amountUnit": "tbsp"},
+      {"name": "salt", "amount": 1, "amountUnit": "tsp"},
+      {"name": "pepper", "amount": 1, "amountUnit": "tsp"}
     ],
-    "directions": "Cook beef with onion and garlic. Add tomato sauce, simmer. Layer noodles with cheese and meat sauce in a baking dish. Bake at 180°C for 45 minutes.",
+    "directions": "1. Cook beef with onion and garlic. 2. Add tomato sauce, simmer. 3. Layer noodles with cheese and meat sauce in a baking dish. 4. Bake at 180°C for 45 minutes.",
     "difficulty": "hard"
   },
   {
@@ -123,323 +123,31 @@
     "slug": "caesar-salad",
     "lastModifiedDate": "2023-06-22T11:30:13.403Z",
     "ingredients": [
-      {"name": "romaine lettuce", "amount": 1, "unit": "head"},
-      {"name": "chicken breast", "amount": 200, "unit": "g"},
-      {"name": "croutons", "amount": 100, "unit": "g"},
-      {"name": "parmesan cheese", "amount": 50, "unit": "g"},
-      {"name": "caesar dressing", "amount": 100, "unit": "ml"},
-      {"name": "olive oil", "amount": 1, "unit": "tbsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
+      {"name": "romaine lettuce", "amount": 1, "amountUnit": "head"},
+      {"name": "chicken breast", "amount": 200, "amountUnit": "g"},
+      {"name": "croutons", "amount": 100, "amountUnit": "g"},
+      {"name": "parmesan cheese", "amount": 50, "amountUnit": "g"},
+      {"name": "Caesar dressing", "amount": 100, "amountUnit": "ml"}
     ],
-    "directions": "Grill chicken, slice. Toss lettuce with dressing, top with chicken, croutons, and parmesan.",
+    "directions": "1. Cook and slice chicken. 2. Toss lettuce with dressing. 3. Top with chicken, croutons, and parmesan.",
     "difficulty": "easy"
   },
   {
     "_id": "5bf6cbef6ac34b001baef492",
-    "title": "Guacamole",
-    "preparationTime": 10,
-    "slug": "guacamole",
+    "title": "Pancakes",
+    "preparationTime": 25,
+    "slug": "pancakes",
     "lastModifiedDate": "2023-06-23T12:40:13.403Z",
     "ingredients": [
-      {"name": "avocados", "amount": 2, "unit": "pcs"},
-      {"name": "lime", "amount": 1, "unit": "pcs"},
-      {"name": "onion", "amount": 0.5, "unit": "pcs"},
-      {"name": "cilantro", "amount": 1, "unit": "bunch"},
-      {"name": "tomato", "amount": 1, "unit": "pcs"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
+      {"name": "flour", "amount": 200, "amountUnit": "g"},
+      {"name": "milk", "amount": 300, "amountUnit": "ml"},
+      {"name": "egg", "amount": 2, "amountUnit": "pcs"},
+      {"name": "sugar", "amount": 50, "amountUnit": "g"},
+      {"name": "butter", "amount": 50, "amountUnit": "g"},
+      {"name": "baking powder", "amount": 1, "amountUnit": "tsp"},
+      {"name": "salt", "amount": 1, "amountUnit": "pinch"}
     ],
-    "directions": "Mash avocados, mix with lime juice, diced onion, chopped cilantro, and tomato. Season with salt and pepper.",
+    "directions": "1. Mix flour, sugar, baking powder, and salt. 2. Whisk in milk and eggs. 3. Melt butter in a pan. 4. Cook pancakes until golden. \nServe with your favorite toppings. \n **Enjoy!**",
     "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef493",
-    "title": "Chocolate Cake",
-    "preparationTime": 90,
-    "slug": "chocolate-cake",
-    "lastModifiedDate": "2023-06-24T13:50:13.403Z",
-    "ingredients": [
-      {"name": "flour", "amount": 250, "unit": "g"},
-      {"name": "sugar", "amount": 200, "unit": "g"},
-      {"name": "cocoa powder", "amount": 50, "unit": "g"},
-      {"name": "baking powder", "amount": 1, "unit": "tsp"},
-      {"name": "baking soda", "amount": 0.5, "unit": "tsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "eggs", "amount": 2, "unit": "pcs"},
-      {"name": "milk", "amount": 240, "unit": "ml"},
-      {"name": "vegetable oil", "amount": 120, "unit": "ml"},
-      {"name": "vanilla extract", "amount": 2, "unit": "tsp"},
-      {"name": "boiling water", "amount": 240, "unit": "ml"}
-    ],
-    "directions": "Mix dry ingredients. Add eggs, milk, oil, and vanilla. Beat for 2 minutes. Stir in boiling water. Bake at 180°C for 35 minutes.",
-    "difficulty": "medium"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef494",
-    "title": "Chicken Alfredo",
-    "preparationTime": 30,
-    "slug": "chicken-alfredo",
-    "lastModifiedDate": "2023-06-25T14:00:13.403Z",
-    "ingredients": [
-      {"name": "fettuccine", "amount": 400, "unit": "g"},
-      {"name": "chicken breast", "amount": 500, "unit": "g"},
-      {"name": "butter", "amount": 100, "unit": "g"},
-      {"name": "heavy cream", "amount": 300, "unit": "ml"},
-      {"name": "parmesan cheese", "amount": 100, "unit": "g"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"},
-      {"name": "olive oil", "amount": 1, "unit": "tbsp"}
-    ],
-    "directions": "Cook fettuccine. Sauté chicken in olive oil. In another pan, melt butter, add garlic, cream, and parmesan. Combine with pasta and chicken.",
-    "difficulty": "medium"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef495",
-    "title": "Greek Salad",
-    "preparationTime": 15,
-    "slug": "greek-salad",
-    "lastModifiedDate": "2023-06-26T15:10:13.403Z",
-    "ingredients": [
-      {"name": "cucumber", "amount": 1, "unit": "pcs"},
-      {"name": "tomato", "amount": 2, "unit": "pcs"},
-      {"name": "red onion", "amount": 0.5, "unit": "pcs"},
-      {"name": "feta cheese", "amount": 100, "unit": "g"},
-      {"name": "kalamata olives", "amount": 100, "unit": "g"},
-      {"name": "olive oil", "amount": 3, "unit": "tbsp"},
-      {"name": "oregano", "amount": 1, "unit": "tsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Chop vegetables, mix with olives and feta. Drizzle with olive oil, sprinkle oregano, salt, and pepper.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef496",
-    "title": "French Toast",
-    "preparationTime": 20,
-    "slug": "french-toast",
-    "lastModifiedDate": "2023-06-27T16:20:13.403Z",
-    "ingredients": [
-      {"name": "bread", "amount": 6, "unit": "slices"},
-      {"name": "eggs", "amount": 2, "unit": "pcs"},
-      {"name": "milk", "amount": 120, "unit": "ml"},
-      {"name": "sugar", "amount": 1, "unit": "tbsp"},
-      {"name": "cinnamon", "amount": 1, "unit": "tsp"},
-      {"name": "vanilla extract", "amount": 1, "unit": "tsp"},
-      {"name": "butter", "amount": 50, "unit": "g"}
-    ],
-    "directions": "Beat eggs, milk, sugar, cinnamon, and vanilla. Dip bread in mixture. Cook on a griddle with butter until golden brown.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef497",
-    "title": "Minestrone Soup",
-    "preparationTime": 60,
-    "slug": "minestrone-soup",
-    "lastModifiedDate": "2023-06-28T17:30:13.403Z",
-    "ingredients": [
-      {"name": "carrots", "amount": 2, "unit": "pcs"},
-      {"name": "celery", "amount": 2, "unit": "stalks"},
-      {"name": "onion", "amount": 1, "unit": "pcs"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "zucchini", "amount": 1, "unit": "pcs"},
-      {"name": "canned tomatoes", "amount": 800, "unit": "g"},
-      {"name": "cannellini beans", "amount": 400, "unit": "g"},
-      {"name": "pasta", "amount": 100, "unit": "g"},
-      {"name": "vegetable broth", "amount": 1, "unit": "l"},
-      {"name": "olive oil", "amount": 2, "unit": "tbsp"},
-      {"name": "basil", "amount": 1, "unit": "tsp"},
-      {"name": "oregano", "amount": 1, "unit": "tsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Sauté vegetables in olive oil. Add tomatoes, beans, broth, and herbs. Simmer for 30 minutes. Add pasta and cook until tender.",
-    "difficulty": "medium"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef498",
-    "title": "Pesto Pasta",
-    "preparationTime": 20,
-    "slug": "pesto-pasta",
-    "lastModifiedDate": "2023-06-29T18:40:13.403Z",
-    "ingredients": [
-      {"name": "pasta", "amount": 400, "unit": "g"},
-      {"name": "basil", "amount": 1, "unit": "bunch"},
-      {"name": "pine nuts", "amount": 50, "unit": "g"},
-      {"name": "parmesan cheese", "amount": 50, "unit": "g"},
-      {"name": "garlic", "amount": 2, "unit": "cloves"},
-      {"name": "olive oil", "amount": 120, "unit": "ml"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Cook pasta. Blend basil, pine nuts, parmesan, garlic, olive oil, salt, and pepper to make pesto. Toss pasta with pesto.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef499",
-    "title": "Beef Tacos",
-    "preparationTime": 30,
-    "slug": "beef-tacos",
-    "lastModifiedDate": "2023-06-30T19:50:13.403Z",
-    "ingredients": [
-      {"name": "ground beef", "amount": 500, "unit": "g"},
-      {"name": "taco seasoning", "amount": 2, "unit": "tbsp"},
-      {"name": "taco shells", "amount": 12, "unit": "pcs"},
-      {"name": "lettuce", "amount": 1, "unit": "head"},
-      {"name": "tomato", "amount": 2, "unit": "pcs"},
-      {"name": "cheddar cheese", "amount": 100, "unit": "g"},
-      {"name": "sour cream", "amount": 200, "unit": "ml"},
-      {"name": "salsa", "amount": 200, "unit": "ml"}
-    ],
-    "directions": "Cook beef with taco seasoning. Fill taco shells with beef, lettuce, tomato, cheese, sour cream, and salsa.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef500",
-    "title": "Garlic Bread",
-    "preparationTime": 15,
-    "slug": "garlic-bread",
-    "lastModifiedDate": "2023-07-01T08:00:13.403Z",
-    "ingredients": [
-      {"name": "baguette", "amount": 1, "unit": "pcs"},
-      {"name": "butter", "amount": 100, "unit": "g"},
-      {"name": "garlic", "amount": 3, "unit": "cloves"},
-      {"name": "parsley", "amount": 1, "unit": "bunch"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Mix softened butter with minced garlic and chopped parsley. Spread on sliced baguette. Bake at 180°C for 10 minutes.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef501",
-    "title": "Apple Pie",
-    "preparationTime": 120,
-    "slug": "apple-pie",
-    "lastModifiedDate": "2023-07-02T09:10:13.403Z",
-    "ingredients": [
-      {"name": "apples", "amount": 6, "unit": "pcs"},
-      {"name": "sugar", "amount": 150, "unit": "g"},
-      {"name": "flour", "amount": 300, "unit": "g"},
-      {"name": "butter", "amount": 150, "unit": "g"},
-      {"name": "cinnamon", "amount": 1, "unit": "tsp"},
-      {"name": "lemon juice", "amount": 1, "unit": "tbsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "water", "amount": 3, "unit": "tbsp"}
-    ],
-    "directions": "Make dough with flour, butter, salt, and water. Slice apples, mix with sugar, cinnamon, and lemon juice. Fill pie crust with apple mixture, cover with top crust. Bake at 180°C for 50 minutes.",
-    "difficulty": "medium"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef502",
-    "title": "Grilled Cheese Sandwich",
-    "preparationTime": 10,
-    "slug": "grilled-cheese-sandwich",
-    "lastModifiedDate": "2023-07-03T10:20:13.403Z",
-    "ingredients": [
-      {"name": "bread", "amount": 4, "unit": "slices"},
-      {"name": "cheddar cheese", "amount": 200, "unit": "g"},
-      {"name": "butter", "amount": 50, "unit": "g"}
-    ],
-    "directions": "Butter bread slices. Place cheese between two slices, buttered side out. Grill on skillet until golden brown and cheese is melted.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef503",
-    "title": "Shrimp Scampi",
-    "preparationTime": 25,
-    "slug": "shrimp-scampi",
-    "lastModifiedDate": "2023-07-04T11:30:13.403Z",
-    "ingredients": [
-      {"name": "shrimp", "amount": 500, "unit": "g"},
-      {"name": "butter", "amount": 100, "unit": "g"},
-      {"name": "garlic", "amount": 3, "unit": "cloves"},
-      {"name": "white wine", "amount": 120, "unit": "ml"},
-      {"name": "lemon juice", "amount": 1, "unit": "tbsp"},
-      {"name": "parsley", "amount": 1, "unit": "bunch"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Sauté garlic in butter, add shrimp. Pour in wine and lemon juice, cook until shrimp is pink. Garnish with parsley, salt, and pepper.",
-    "difficulty": "medium"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef504",
-    "title": "BBQ Ribs",
-    "preparationTime": 240,
-    "slug": "bbq-ribs",
-    "lastModifiedDate": "2023-07-05T12:40:13.403Z",
-    "ingredients": [
-      {"name": "pork ribs", "amount": 2, "unit": "kg"},
-      {"name": "bbq sauce", "amount": 300, "unit": "ml"},
-      {"name": "salt", "amount": 2, "unit": "tsp"},
-      {"name": "pepper", "amount": 2, "unit": "tsp"},
-      {"name": "garlic powder", "amount": 1, "unit": "tsp"},
-      {"name": "onion powder", "amount": 1, "unit": "tsp"},
-      {"name": "paprika", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Season ribs with salt, pepper, garlic powder, onion powder, and paprika. Bake at 150°C for 3 hours. Brush with BBQ sauce, bake for another hour.",
-    "difficulty": "hard"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef505",
-    "title": "Tiramisu",
-    "preparationTime": 60,
-    "slug": "tiramisu",
-    "lastModifiedDate": "2023-07-06T13:50:13.403Z",
-    "ingredients": [
-      {"name": "ladyfingers", "amount": 200, "unit": "g"},
-      {"name": "mascarpone cheese", "amount": 250, "unit": "g"},
-      {"name": "eggs", "amount": 3, "unit": "pcs"},
-      {"name": "sugar", "amount": 100, "unit": "g"},
-      {"name": "coffee", "amount": 200, "unit": "ml"},
-      {"name": "cocoa powder", "amount": 2, "unit": "tbsp"},
-      {"name": "rum", "amount": 2, "unit": "tbsp"}
-    ],
-    "directions": "Beat egg yolks with sugar, fold in mascarpone. Dip ladyfingers in coffee and rum, layer with mascarpone mixture. Repeat layers, dust with cocoa. Chill for 4 hours.",
-    "difficulty": "medium"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef506",
-    "title": "Pancakes",
-    "preparationTime": 20,
-    "slug": "pancakes",
-    "lastModifiedDate": "2023-07-07T14:00:13.403Z",
-    "ingredients": [
-      {"name": "flour", "amount": 200, "unit": "g"},
-      {"name": "milk", "amount": 300, "unit": "ml"},
-      {"name": "egg", "amount": 1, "unit": "pcs"},
-      {"name": "baking powder", "amount": 2, "unit": "tsp"},
-      {"name": "sugar", "amount": 1, "unit": "tbsp"},
-      {"name": "butter", "amount": 50, "unit": "g"},
-      {"name": "salt", "amount": 1, "unit": "tsp"}
-    ],
-    "directions": "Mix flour, baking powder, salt, and sugar. Add milk, egg, and melted butter. Cook on a griddle until bubbles form, flip and cook until golden.",
-    "difficulty": "easy"
-  },
-  {
-    "_id": "5bf6cbef6ac34b001baef507",
-    "title": "Chili Con Carne",
-    "preparationTime": 90,
-    "slug": "chili-con-carne",
-    "lastModifiedDate": "2023-07-08T15:10:13.403Z",
-    "ingredients": [
-      {"name": "ground beef", "amount": 500, "unit": "g"},
-      {"name": "onion", "amount": 1, "unit": "pcs"},
-      {"name": "garlic", "amount": 3, "unit": "cloves"},
-      {"name": "canned tomatoes", "amount": 800, "unit": "g"},
-      {"name": "kidney beans", "amount": 400, "unit": "g"},
-      {"name": "chili powder", "amount": 2, "unit": "tbsp"},
-      {"name": "cumin", "amount": 1, "unit": "tsp"},
-      {"name": "paprika", "amount": 1, "unit": "tsp"},
-      {"name": "oregano", "amount": 1, "unit": "tsp"},
-      {"name": "salt", "amount": 1, "unit": "tsp"},
-      {"name": "pepper", "amount": 1, "unit": "tsp"},
-      {"name": "olive oil", "amount": 2, "unit": "tbsp"}
-    ],
-    "directions": "Sauté onion and garlic in olive oil. Add beef, cook until browned. Add tomatoes, beans, and spices. Simmer for 1 hour.",
-    "difficulty": "medium"
   }
 ]
